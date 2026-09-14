@@ -29,7 +29,7 @@
 export const nombreEstudiante: string = "";       // 👈 TODO: Escribe tu nombre aquí
 export const edadEstudiante: number = 0;          // 👈 TODO: Escribe tu edad aquí
 export const promedioObjetivo: number = 0;        // 👈 TODO: Escribe tu promedio objetivo
-export let estaMatriculado: boolean = false;    // 👈 TODO: Cambia a true
+export let estaMatriculado: boolean = false;  okey  // 👈 TODO: Cambia a true
 
 /**
  * TODO: Implementa la función `obtenerResumenPersonal` usando Template Strings (${...}).
